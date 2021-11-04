@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "booking-room-lesq",
+  "private_key_id": "f3f6a4258a594eceff3ecdf94c8b0a8e3e01b36d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx6uowO9x9fEF3\npftp0CxKf8AixB4aRiS8dlIBpR18F8Nz5CvxsY8QZ9YS/yz+josa05J7xDlHHWL5\n+BWkC7tx2YwbVPvuxUV9oqIUoElu2VkM1alzfT/rhEv7KLxVPKXbAOv9uqIoyp/f\nq0Ne3ISOn6/WY6YbempdZmJnSpxIGbwO21YSqlHMoSGBo9gFf+mw5RpVbGYShjZi\n03ifcPX1n860qCQMPsjPxTw58ZWosDuwo/FdN2Bv3uBopiBtbncvrrjNCLXqLMW7\n50TTKPWA7bhAR7fl8B1MSO/sMf58iCBXJFcrqYnD1fz/fyG+441lLEJTP2tDwbCc\nM+a23e+fAgMBAAECggEAC514/X4i9mRCx+NjpvRKt/BgJETmbDOxGUamMupLIvtQ\nLMQ0JDrBysHkpWfYUaQPq8gtM3xLevuNpyENlKCZc6TOs0gYjG1/jGSuLSeLs7tn\nx2E5h0shfags57Awn2Xus/366h0hkgUsa8c8BjjiRIdjTN1Djl6vC/rvqKujyUcc\n2zD8T37yDojZUJJ6jERXL6qHxktPzbNP9LXNkTjCjDvE0qy4y3tyLiFQoByf/pLL\nG70+gW/MxOyw+i6V+YDTIhyrZzVhTrv7XuJL1IYkl8yFKsGen/i9lLNDIQLFmlvQ\nMi6BltgHZ8bFQYiMb7tXa6uJc7UVXYCph4VKHmgNFQKBgQDoQttiBouwJ0Q2VNNv\nFnVwh5hmdktv3TNWkZ4PW302gcH7ESaW6YHwLolz8patxbJetl/2N37ajU6phhxF\nP+SvFRzvHVc9vDkFPZ09rw+h3FodWpEo+aY8Ze4m5SL/uUBGMhdBpTXVGQOnyFiK\nfFuS+Nt86OrQTHYESSmuxRqlEwKBgQDEGicOBDTL+s/HdXcKYZmRuQm40YLnfQcl\nGoy47tk5qf9UlZ8zbqcWOXOfRFGJEViH5EFkvl59hlTdaSGlUmhyJ+ydckGyz137\nI4LML3Bof59N/neetrcaOXGP9Z91KqYltyddbL8Fmr7ihnj0SPoDRyGVrt5HdmGp\nBcZrD5R4xQKBgD31j+a/jkYow3am/Fx3Jk8lrQ8wYYFvBgIDCKJaKrX+uYvLkHrT\nwhkboQlwXqfuxF2l00WwmkOdTK3GnAYRPGVEgZp8Pki2zJNMU4UgDVCFoviPr4e5\nyZH1MynnGIYVmkLfm/qkIw89BA+fT5dqA1fa0VqqG/IDY7xS9C6uYCRHAoGBALkG\nX/EGoPYQ6LiuKSo/WlE3AGhELbnSqsokWcAnhAe3UPTy0yoI7le2z1PndvLXzesx\nv02ZnLfc5feeOSOuNGP5LXSEmF5o76iEIeYboHjIaXuCbETw6qQwrOiCfPhkzCzr\nuZWZhEZ6cj5zWG5M6K/tDlAXlRxiItUCYOsk4RZtAoGBAJXN0bJ9R633RYmzQL22\n5pMyKTtwuQp6hzfKxRXNQDVMUMIeJtL0wxWSNqaZeBeXBdARdzpMgWDVSeMtvglM\nsO+IfEMvOUQAzKbQm48ROjFGhlzs2lEq7AKaxab9h/WOX6/pBi5gkRhvwUbqr/k5\nuuyliLfRvtRuzA5IKKgk5WKb\n-----END PRIVATE KEY-----\n",
+  "client_email": "jianan@booking-room-lesq.iam.gserviceaccount.com",
+  "client_id": "103476870472727683487",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jianan%40booking-room-lesq.iam.gserviceaccount.com"
+}

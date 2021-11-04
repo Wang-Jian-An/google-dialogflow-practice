@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "create-agent-with-api",
+  "private_key_id": "6343d801abf52f8c29f7db45cdcf1d68eb0e4875",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3/qJeYnZoLFw5\n/sM546bRHHB912vMkEf/SHU07AxbwGfy5SNJqcrkyXAWl9NoquApm8d2DPpnVRDs\nLA+1HFS15ZqGsByv78RaV87+1B58MDAZJkwfUlRwMdjip3VozojREZKJ8ldCGC9q\nW3r1hhkUMgmN+fNbEjGcP+3wBgFuqs5ZgS4T0Z9uvG3ZpLOsXMMu3iKyZozlSos6\nPOX38iSqdts/LicNiUkP9Q56cg3/H0/h+0clWz9TwOpe4DESy7R4WlikcCLt9xB0\nF2V48tbu0fLbZ9Vqw66thUofHl0a5kvAWQOV4XaB6xbxboD4mYVJhDImYL977/J8\nkYBRpmDTAgMBAAECggEAC0vDPScvXMroaJkW9D1hNvJXh6pLkHYFLYuNwo+BXLqt\nxxBBP9sAPVaOnpx4mrLu6y8Iqls2nlRvIwi7eCOCod40Q/OY90YxmFhOuX9dVcOB\nmHGs97lOvMqapaOhRitz493/0J9DsyeX9aAjJuKyNHaz9nbzdVJjIFQeb/92ZAxW\nuccA/5kwLAyVDLH0onO019LtfyPC5rMTVYRl5+reuEZS8ssJ43gPnz4M/JGuw1nM\nvy8KLDFHf9e1s5nVvxOPxNRofS4DcIoR8uNhS2BgaF5qVwq9iZo06+hlreCmv417\nbKuoXbuYUfJ1h7laFNhjKtzFKktLitDeZEeOe/EykQKBgQDszzzijkI+8Zn94oDi\nXfi9jb7p6zCPkeC3vRLxvTnh5+WRE+i1PgkpuxgoLJub6TMtbKN0OTwWauW8OlQ5\nDStvMBmSLCPmBkqLqJxll5L2xdbskEGtfCF6cMpAq364O+yy586wHhkuR/ilUhxx\n7oQL0dQh3DDAatRVXgNa3q/pgwKBgQDG57gTvzGK+duFCjIUqRFyvxKaeM6YKaTu\nx1ZWk007l8awkWRjHMcXdFCnJb4OQQZwFVg/Ir90K+/K1ZWWCxQMYCImmn8pwAi+\n42IL46+c7GNLbRaob23m3Ejq9QzRji/W/7qVjPjrxlowE2HZtUWrpxfeNj5CUAoy\n4tBE2UMacQKBgQDBjrYmO77b8eA7SyqrW8HXNYeJbQoZH1Q8+lcErfUkt8XFKi+4\nDIeyy1D4bVWXPynsg/KqKan6bM9wZYC3zRLmY7tS5a9F8Xh25I9I3nZqK9T7MQHt\nyhsXGB/IciQ2dAyJQr2G6GMOmBcdEZtcaGcXvh8UugRDEk6RpDE70e6Y/wKBgHuK\nNrHFIb9g+vCB6aMdc2HivWpGOIMX8oIAO2bgbKrj1Rub4k8Q87Nkoid+8LGnv5jk\nGQB105YTKAfCavtbfCNHnk59zRegV45AaohZ7Zw40l9prRYGx6sJDR0qAMEzYBFY\nmooCmiTO+Ps9Ppxa06AO02tII5lKX1tFtvfcPapxAoGBAIsn5QUVqoW10E7fL6hh\nEetB5deC8cSf4Kznsy3Nh1lRpYqicSf+kaQvVb3T9H9RzEvJfcJJSROvKCxj/O/7\nMYI6taLCqd7uOGLw3iNEpKu9QKV4ZeMk5JOGL1iw9BLKtIdebRE+3WsR/Eo71cZq\n/z/ICLTPwsqT5VlkUKH49IOF\n-----END PRIVATE KEY-----\n",
+  "client_email": "create-agent-jian-an@create-agent-with-api.iam.gserviceaccount.com",
+  "client_id": "106817028653456365923",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/create-agent-jian-an%40create-agent-with-api.iam.gserviceaccount.com"
+}
